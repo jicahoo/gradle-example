@@ -1,6 +1,10 @@
 # gradle-example
 Gradle examples.
 
+# How to manage Java projects?
+* First step, you have to choose one Java project manage tool: Gradle or Maven.
+* I have some knowledge about Gradle. So provide one gradle example here.
+
 ## Sub-projects dependencies
 * `app` depends on `common` and `api`
 * `api` depends on 'common'
