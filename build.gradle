@@ -1,0 +1,17 @@
+subprojects {
+
+    apply plugin: "java"
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        testCompile "junit:junit:4+"
+    }
+}
+
+task collectJars(type: Copy, dependsOn: subprojects.jar) {
+    from(subprojects.jar)
+    into project.file('.jars')
+}

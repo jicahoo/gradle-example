@@ -1,0 +1,10 @@
+# Gradle related files
+.gradle
+**/build
+
+# IDE IntelliJ files
+.idea
+*.iml
+
+# output directory of this project
+.jars
