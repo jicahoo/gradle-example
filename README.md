@@ -32,3 +32,13 @@ which set up the `app`'s dependency on `common`.
 * https://medium.com/@bherbst/understanding-the-gradle-wrapper-a62f35662ab7
 * https://stackoverflow.com/questions/25769536/how-when-to-generate-gradle-wrapper-files
 * https://www.mkyong.com/gradle/how-to-use-gradle-wrapper/
+
+# Who use Maven or Gradle?
+## Famous projects using Gradle
+* Spring: https://github.com/spring-projects/spring-framework
+* Hibernate: https://github.com/hibernate/hibernate-orm
+
+## Famous projects using Maven.
+* https://github.com/apache/hadoop
+* https://github.com/apache/spark
+* https://github.com/netty/netty
