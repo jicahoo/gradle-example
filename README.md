@@ -18,3 +18,12 @@ which set up the `app`'s dependency on `common`.
 `gradlew.bat collectJars`
 
 * Then, you will get three jars `common.jar`,`api.jar`, `app.jar` in folder `.jars`.
+
+# References
+## Use Gradle to manage multiple projects
+* https://rominirani.com/gradle-tutorial-part-3-multiple-java-projects-5b1c4d1fbd8d
+
+## Gradle Wrapper:
+* https://medium.com/@bherbst/understanding-the-gradle-wrapper-a62f35662ab7
+* https://stackoverflow.com/questions/25769536/how-when-to-generate-gradle-wrapper-files
+* https://www.mkyong.com/gradle/how-to-use-gradle-wrapper/
